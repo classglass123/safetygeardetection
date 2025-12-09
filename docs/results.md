@@ -16,4 +16,7 @@ Below is a summary of my model performance.
 - High learning rates caused poor generalization  
 - Augmentation helped slightly with consistency  
 
+<img width="2528" height="1328" alt="W B Chart 1" src="https://github.com/user-attachments/assets/60a3e348-2de2-4530-a0a1-038421fd2c86" />
 
+
+<img width="2528" height="1328" alt="W B Chart 2" src="https://github.com/user-attachments/assets/058897e5-c3dd-4195-9945-eb575e82e591" />
